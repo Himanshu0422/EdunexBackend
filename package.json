@@ -1,14 +1,14 @@
 {
 	"name": "edunex-backend",
 	"version": "1.0.0",
-	"description": "EduNex-backend",
+	"description": "edunex-backend",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"keywords": [
-		"EduNex-backend"
+		"edunex-backend"
 	],
 	"author": "Himanshu Mittal",
 	"license": "ISC",
